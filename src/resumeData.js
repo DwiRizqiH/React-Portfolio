@@ -1,64 +1,68 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://dwiqi.my.id",
+    "name": "Dwi Rizqi",
+    "role": "Node.js Backend Developer",
+    "discordId":" DwiRizqi#3849",
+    "roleDescription": " Saya suka dengan pengembangan backend dan belajar tentang teknologi baru, atau sekadar bermain game di waktu luang.",
     "socialLinks":[
         {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
+          "name":"Discord",
+          "url":"https://discord.com/users/577838034666520596",
+          "className":"fab fa-discord"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/DwiRizqiH",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"whatsapp",
+          "url":"http://wa.me/6281358181668",
+          "className":"fa fa-whatsapp"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Saat ini saya adalah siswa kelas 10 di MAN 4 Jombang. Saya seorang Backend Developer otodidak. Saya percaya bahwa untuk menjadi sukses dalam hidup, seseorang harus terobsesi dengan impian mereka dan terus bekerja keras untuk mewujudkannya",
+    "address":"Jombang",
+    "website":"https://dwiqi.my.id",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"MTsN 4 Jombang",
+        "specialization":"Jurusan IPA",
+        // "MonthOfPassing":"March",
+        "YearOfPassing":"2022",
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Man 4 Jombang",
+        "specialization":"X MIA 2",
+        "MonthOfPassing":"March",
+        "YearOfPassing":"2022 until Now",
+        "Achievements": "Extra Robotik"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"RealmChat",
+        "specialization":"Backend Developer",
+        "MonthOfLeaving":"Mei",
+        "YearOfLeaving":"2022",
+        "Achievements":"Whatsapp API Maintainer"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Freelance di WHAPI.id",
+        "specialization":"Backend Developer",
+        "MonthOfLeaving":"November",
+        "YearOfLeaving":"2022",
+        "Achievements":"Developing 4.0 Version"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Backend Developer",
     "skills":[
+      {
+        "skillname":"Node.Js"
+      },
+      {
+        "skillname":"Javascript"
+      },
       {
         "skillname":"HTML5"
       },
@@ -67,6 +71,9 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Arduino C++"
       }
     ],
     "portfolio":[
