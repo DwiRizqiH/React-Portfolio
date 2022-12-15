@@ -13,12 +13,12 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/DwiRizqiH",
+          "url":"https://github.com/DwiRizqiH",
           "className":"fa fa-github"
         },
         {
           "name":"whatsapp",
-          "url":"http://wa.me/6281358181668",
+          "url":"https://wa.me/6281358181668",
           "className":"fa fa-whatsapp"
         }
       ],
@@ -75,38 +75,6 @@ let resumeData = {
       },
       {
         "skillname":"Arduino C++"
-      }
-    ],
-    "portfolio":[
-      {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
       }
     ]
   }
