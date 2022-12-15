@@ -17,6 +17,9 @@ export default class ContactUs extends Component {
                 <h4>Discord :
                   {resumeData.discordId}
                 </h4>
+                <h4>Email :
+                  {' ' + resumeData.email}
+                </h4>
               </div>
             </aside>
           </div>

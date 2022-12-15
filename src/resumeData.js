@@ -2,7 +2,8 @@ let resumeData = {
     "imagebaseurl":"https://dwiqi.my.id",
     "name": "Dwi Rizqi",
     "role": "Node.js Backend Developer",
-    "discordId":" DwiRizqi#3849",
+    "discordId": " DwiRizqi#3849",
+    "email": "a.dwirizqi.h123@gmail.com",
     "roleDescription": " Saya suka dengan pengembangan backend dan belajar tentang teknologi baru, atau sekadar bermain game di waktu luang.",
     "socialLinks":[
         {
