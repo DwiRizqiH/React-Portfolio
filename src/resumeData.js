@@ -51,7 +51,7 @@ let resumeData = {
       {
         "CompanyName":"Freelance di WHAPI.id",
         "specialization":"Backend Developer",
-        "MonthOfLeaving":"November",
+        "MonthOfLeaving":"Desember",
         "YearOfLeaving":"2022",
         "Achievements":"Developing 4.0 Version"
       }
