@@ -49,7 +49,7 @@ let resumeData = {
         "Achievements":"Whatsapp API Maintainer"
       },
       {
-        "CompanyName":"Freelance di WHAPI.id",
+        "CompanyName":"WHAPI.id",
         "specialization":"Backend Developer",
         "MonthOfLeaving":"Desember",
         "YearOfLeaving":"2022",
