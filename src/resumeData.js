@@ -37,7 +37,7 @@ let resumeData = {
         "specialization":"X MIA 2",
         "MonthOfPassing":"March",
         "YearOfPassing":"2022 until Now",
-        "Achievements": "Extra Robotik"
+        "Achievements": "Mengikuti Lomba Procommit V12 - Robot Cerdas"
       }
     ],
     "work":[
